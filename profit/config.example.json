@@ -1,0 +1,14 @@
+{
+  "seller_name": "",
+  "my_tags": ["ABC"],
+  "foreign_tags": [],
+  "quantity_tolerance_k": 10,
+  "match_window_days": 7,
+  "eldorado_commission_rate": "0.05",
+  "withdrawal": {
+    "method": "USDC",
+    "percent": "0.06",
+    "flat_usd": "20"
+  },
+  "net_profit_split": {}
+}
